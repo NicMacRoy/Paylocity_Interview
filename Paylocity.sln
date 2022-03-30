@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paylocity_API", "Paylocity_API\Paylocity_API.csproj", "{994EACA4-290A-4AFA-AEC6-2E6D7D6F4E0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paylocity_Test", "Paylocity_Test\Paylocity_Test.csproj", "{1780E7D2-11F8-469F-B85A-2653F1BC9251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994EACA4-290A-4AFA-AEC6-2E6D7D6F4E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994EACA4-290A-4AFA-AEC6-2E6D7D6F4E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994EACA4-290A-4AFA-AEC6-2E6D7D6F4E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994EACA4-290A-4AFA-AEC6-2E6D7D6F4E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1780E7D2-11F8-469F-B85A-2653F1BC9251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1780E7D2-11F8-469F-B85A-2653F1BC9251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1780E7D2-11F8-469F-B85A-2653F1BC9251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1780E7D2-11F8-469F-B85A-2653F1BC9251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D59CEC-826E-44D9-B48A-24C7B5AC03E3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0df6c75-4b61-4d3f-b1fe-9a80dad14860": {
+      "ProjectGuid": "a0df6c75-4b61-4d3f-b1fe-9a80dad14860",
+      "DisplayName": "Paylocity",
+      "ColorIndex": 0
+    },
+    "994eaca4-290a-4afa-aec6-2e6d7d6f4e0b": {
+      "ProjectGuid": "994eaca4-290a-4afa-aec6-2e6d7d6f4e0b",
+      "DisplayName": "Paylocity_API",
+      "ColorIndex": 1
+    },
+    "1780e7d2-11f8-469f-b85a-2653f1bc9251": {
+      "ProjectGuid": "1780e7d2-11f8-469f-b85a-2653f1bc9251",
+      "DisplayName": "Paylocity_Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
