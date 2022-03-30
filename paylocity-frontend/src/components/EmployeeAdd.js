@@ -31,6 +31,10 @@ const EmployeeAdd = () => {
             firstName: newEmployee.firstName,
             lastName: newEmployee.lastName,
             compensationType: newEmployee.compensationType
+        }).then(e => {
+            setSuccessOpen(true);
+        }).catch(function (error) {
+            console.log(error);
         });
     }
 
