@@ -21,7 +21,7 @@ const Employees = () => {
 
     useEffect(() => {
         getEmployeeData();
-    });
+    }, []);
 
     const deleteEmployee = async (targetedId) => {
         await axios.delete(`${variables.API_URL}/Employee/${targetedId}`)

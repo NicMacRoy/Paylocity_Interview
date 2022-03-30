@@ -24,7 +24,7 @@ const Dependants = () => {
 
     useEffect(() => {
         getDependantData();
-    });
+    }, []);
 
     const getDependantData = async () => {
 
